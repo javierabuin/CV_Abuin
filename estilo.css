@@ -1,0 +1,80 @@
+#izq{
+    background-color: #7DDE89;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1100px;
+  
+    text-align: center;
+    
+}
+ #apellido{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    color: black;
+    margin: 0px;
+    
+    
+}
+#nombre{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    color: black;
+}
+p{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+}
+#info{
+    background-color: #418F4A;
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    font-size: 32px;
+}
+button{
+    background-color:rgb(65, 144, 74);
+    border: 0px;
+    
+}
+#info img{
+    text-align: right;
+    left: 450px;
+    margin-top: 10px;
+    
+}
+li{
+    text-align: left;
+    color: black;
+    margin-left: 40px;
+}
+#contacto{
+    text-align: left;
+}
+#segunda{
+    background-color: #d9f8dc;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1100px;
+    text-align: center;
+}
+#subtitulo{
+    text-align: left;
+}
+h3{
+    display: inline;
+}
+#aa p {
+    text-align: justify;
+    color: black;
+    margin-left:70px;
+    margin-right:70px;
+    font-size: 25px;
+}
+#aa li{
+    font-size: 30px;
+}
+*{
+    box-sizing: border-box;
+}
